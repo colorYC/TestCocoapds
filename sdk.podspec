@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "sdk"
-s.version      = "1.3.0"
+s.version      = "1.5.0"
 s.summary      = "Useage of sdk."
 s.description  = "sdfdf"
 s.source       = { :git => "https://github.com/colorYC/TestCocoapds.git", :tag => "#{s.version}" }
